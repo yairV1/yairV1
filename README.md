@@ -1,26 +1,39 @@
 <div align="center">
 
-# Hey, soy Yair 👋
-
-### Desarrollador Junior · Estudiante · Open to Work
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=JavaScript+%2F+TypeScript+Dev;Python+Enthusiast;PHP+%2B+Laravel+Builder;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hola%2C+soy+Yair+%F0%9F%91%8B;Desarrollador+en+construcci%C3%B3n+%F0%9F%94%A8;Cada+d%C3%ADa+un+poco+mejor+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
+<br/>
+
+```javascript
+const yair = {
+  rol:        "Desarrollador Junior & Estudiante",
+  mentalidad: "El código es un oficio — se afina con cada línea",
+  enfoque:    ["Aprender primero", "Construir después", "Mejorar siempre"],
+  tecnologias: ["JavaScript", "TypeScript", "Python", "PHP", "Laravel"],
+  objetivo:   "Convertirme en un dev que deje huella en cada proyecto",
+  openToWork: true
+};
+```
+
 ---
 
-### 🧑‍💻 Sobre mí
+<br/>
 
-- 🎓 Estudiante de desarrollo de software
-- 💼 Buscando mi primera oportunidad profesional
-- 🚀 Apasionado por construir cosas que funcionen de verdad
-- 🌱 Actualmente mejorando mis skills en **Laravel** y **TypeScript**
-- 💬 Pregúntame sobre **JavaScript, Python o PHP**
+### 🔥 Lo que me mueve
+
+No programo solo para que funcione — programo para entender **por qué** funciona.
+
+Creo que ser dev no es un título, es una actitud. La actitud de quien no se rinde cuando algo no compila, de quien se queda un rato más para entender ese concepto que se le resistía, de quien cada bug resuelto lo hace más fuerte.
+
+Estoy al principio del camino, pero lo recorro con propósito.
+
+<br/>
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Mi stack actual
 
 <div align="center">
 
@@ -29,23 +42,45 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
-### 📊 Mis estadísticas
+### 📈 Mi progreso en GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yairV1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairV1&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yairV1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairV1&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yairV1&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br/>
+
 ---
 
-### 📫 Contáctame
+### 🎯 En qué estoy enfocado ahora
+
+- 📚 Profundizando en **Laravel** y arquitectura de aplicaciones web
+- ⚡ Mejorando mis bases en **TypeScript** y patrones de diseño
+- 🧩 Aprendiendo sobre **buenas prácticas** y código limpio
+- 🤝 Buscando mi primera experiencia profesional donde crecer junto a un equipo
+
+<br/>
+
+---
+
+### 📫 Hablemos
 
 <div align="center">
 
@@ -54,8 +89,14 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yairV1&color=6C63FF&style=flat-square&label=Visitas+al+perfil" />
+
+*"El mejor código que escribirás mañana supera al mejor que escribiste hoy."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yairV1&color=58A6FF&style=flat-square&label=Visitas+al+perfil" />
+
 </div>
