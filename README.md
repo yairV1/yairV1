@@ -21,7 +21,7 @@ const yair = {
 
 <br/>
 
-### 🔥 Lo que me mueve
+### Lo que me mueve
 
 No programo solo para que funcione — programo para entender **por qué** funciona.
 
@@ -33,7 +33,7 @@ Estoy al principio del camino, pero lo recorro con propósito.
 
 ---
 
-### 🛠️ Mi stack actual
+### Mi stack actual
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Estoy al principio del camino, pero lo recorro con propósito.
 
 ---
 
-### 📈 Mi progreso en GitHub
+### Mi progreso en GitHub
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yairV1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
@@ -67,7 +67,7 @@ Estoy al principio del camino, pero lo recorro con propósito.
 
 ---
 
-### 🎯 En qué estoy enfocado ahora
+### En qué estoy enfocado ahora
 
 - 📚 Profundizando en **Laravel** y arquitectura de aplicaciones web
 - ⚡ Mejorando mis bases en **N8N** y patrones de diseño
@@ -78,7 +78,7 @@ Estoy al principio del camino, pero lo recorro con propósito.
 
 ---
 
-### 📫 Hablemos
+### Hablemos
 
 <div align="center">
 
