@@ -11,7 +11,7 @@ const yair = {
   rol:        "Desarrollador Junior & Estudiante",
   mentalidad: "El código es un oficio — se afina con cada línea",
   enfoque:    ["Aprender primero", "Construir después", "Mejorar siempre"],
-  tecnologias: ["JavaScript", "TypeScript", "Python", "PHP", "Laravel"],
+  tecnologias: ["JavaScript", "N8N", "Python", "PHP", "Laravel"],
   objetivo:   "Convertirme en un dev que deje huella en cada proyecto",
   openToWork: true
 };
@@ -38,7 +38,7 @@ Estoy al principio del camino, pero lo recorro con propósito.
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -53,10 +53,8 @@ Estoy al principio del camino, pero lo recorro con propósito.
 ### 📈 Mi progreso en GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yairV1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairV1&layout=compact&theme=github_dark&hide_border=true" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yairV1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairV1&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
@@ -72,7 +70,7 @@ Estoy al principio del camino, pero lo recorro con propósito.
 ### 🎯 En qué estoy enfocado ahora
 
 - 📚 Profundizando en **Laravel** y arquitectura de aplicaciones web
-- ⚡ Mejorando mis bases en **TypeScript** y patrones de diseño
+- ⚡ Mejorando mis bases en **N8N** y patrones de diseño
 - 🧩 Aprendiendo sobre **buenas prácticas** y código limpio
 - 🤝 Buscando mi primera experiencia profesional donde crecer junto a un equipo
 
@@ -84,8 +82,8 @@ Estoy al principio del camino, pero lo recorro con propósito.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-vergara-163043309/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](yandrey2007@gmail.com)
 
 </div>
 
