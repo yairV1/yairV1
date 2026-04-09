@@ -53,11 +53,6 @@ Estoy al principio del camino, pero lo recorro con propósito.
 ### Mi progreso en GitHub
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yairV1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairV1&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yairV1&theme=github-dark-blue&hide_border=true" />
 
