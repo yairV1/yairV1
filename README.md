@@ -12,13 +12,11 @@
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=888888&center=true&vCenter=true&width=600&height=40&lines=Escribo+código+que+importa.+No+código+que+impresiona.;El+oficio+se+aprende+escribiendo%2C+rompiendo+y+reescribiendo.;Junior+en+t%C3%ADtulo%2C+serio+en+prop%C3%B3sito." alt="Typing" />
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/─_LinkedIn_─-1a1a1a?style=flat-square&logo=linkedin&logoColor=4A9EFF&labelColor=0a0a0a)](https://www.linkedin.com/in/yair-vergara-163043309/)
 [![Email](https://img.shields.io/badge/─_yandrey2007@gmail.com_─-1a1a1a?style=flat-square&logo=gmail&logoColor=CF6679&labelColor=0a0a0a)](mailto:yandrey2007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/─_Portfolio_─-1a1a1a?style=flat-square&logo=githubpages&logoColor=7EC8A4&labelColor=0a0a0a)](https://yairv1.github.io/Papeles_Andinos/)
+[![Portfolio](https://img.shields.io/badge/─_Portfolio_─-1a1a1a?style=flat-square&logo=githubpages&logoColor=7EC8A4&labelColor=0a0a0a)](https://yairv1.github.io/portafolio_/)
 
 ![Views](https://komarev.com/ghpvc/?username=yairV1&color=888888&style=flat-square&label=profile+views)
 
@@ -62,9 +60,9 @@ Las herramientas que uso hoy. Las que usaré mañana, las estoy aprendiendo ahor
 
 ### Trabajo destacado
 
-**[Papeles Andinos](https://yairv1.github.io/Papeles_Andinos/)**
-Sistema web para una papelería local. Diseño, desarrollo y despliegue completo.
-`HTML` · `CSS` · `JavaScript` · [Ver repositorio →](https://github.com/yairV1/Papeles_Andinos)
+**[VetWilling](https://vetwilling.com/)**
+Sistema web de una veterinaria.
+`HTML` · `CSS` · `JavaScript` · [Ver repositorio →](https://github.com/WilliamSanchezR/VETWILLING)
 
 ---
 
