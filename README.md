@@ -1,22 +1,14 @@
-<!-- HEADER -->
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ██╗██████╗     ██╗   ██╗███████╗██████╗  ██████╗  █████╗ ██████╗  █████╗
-╚██╗ ██╔╝██╔══██╗██║██╔══██╗    ██║   ██║██╔════╝██╔══██╗██╔════╝ ██╔══██╗██╔══██╗██╔══██╗
- ╚████╔╝ ███████║██║██████╔╝    ██║   ██║█████╗  ██████╔╝██║  ███╗███████║██████╔╝███████║
-  ╚██╔╝  ██╔══██║██║██╔══██╗    ╚██╗ ██╔╝██╔══╝  ██╔══██╗██║   ██║██╔══██║██╔══██╗██╔══██║
-   ██║   ██║  ██║██║██║  ██║     ╚████╔╝ ███████╗██║  ██║╚██████╔╝██║  ██║██║  ██║██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝     ╚═══╝  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=yairV1&fontSize=60&fontColor=0D1117&fontAlignY=65&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&height=55&lines=root%40yair%3A~%24+whoami;%3E+Desarrollador+en+construcci%C3%B3n+%F0%9F%94%A8;%3E+Stack%3A+JS+%7C+PHP+%7C+Laravel+%7C+Python;%3E+Cada+l%C3%ADnea+de+c%C3%B3digo+tiene+un+prop%C3%B3sito_%F0%9F%9F%A2" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&height=50&lines=root%40yair%3A~%24+whoami;%5B%2B%5D+Desarrollador+Junior+%26+Estudiante;%5B%2B%5D+Stack%3A+JS+%7C+PHP+%7C+Laravel+%7C+Python;%5B%2B%5D+Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;%5B%2B%5D+open_to_work+%3D+true" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-vergara-163043309/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yandrey2007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF41?style=for-the-badge&logo=github&logoColor=black)](https://yairv1.github.io/Papeles_Andinos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-vergara-163043309/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yandrey2007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://yairv1.github.io/Papeles_Andinos/)
 
 <br/>
 
@@ -26,7 +18,7 @@
 
 ---
 
-## `$ cat /etc/identity`
+## `$ cat profile.json`
 
 ```bash
 ┌──(yair㉿dev)-[~]
@@ -47,7 +39,7 @@
 }
 ```
 
-```bash
+```
 [+] Acceso concedido.
 [+] No programo solo para que funcione — programo para entender POR QUÉ funciona.
 [+] Cada bug resuelto, cada concepto que se resistía, me acerca al dev que quiero ser.
@@ -62,24 +54,24 @@
 └─$ ls -la
 ```
 
-### ⚙ Frontend
+**Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙ Backend & Frameworks
+**Backend & Frameworks**
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙ Herramientas & DevOps
+**Herramientas**
 
-![N8N](https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -92,26 +84,26 @@
 [+] Proyecto encontrado:
 ```
 
-[![Papeles Andinos](https://github-readme-stats.vercel.app/api/pin/?username=yairV1&repo=Papeles_Andinos&theme=github_dark_dimmed&hide_border=true&border_color=00FF41)](https://github.com/yairV1/Papeles_Andinos)
+> **[📁 Papeles Andinos](https://github.com/yairV1/Papeles_Andinos)** — Sistema web desarrollado con HTML, CSS y JS.
+> `[STATUS: ACTIVE]` · `[LANG: JavaScript]` · `[VISIBILIDAD: PUBLIC]`
 
-```bash
-[+] Para agregar más proyectos: duplicar bloque y cambiar el nombre del repo.
+```
 [*] Scan completado. 1 repositorio activo.
+[+] Más proyectos en construcción...
 ```
 
 ---
 
 ## `$ tail -f /var/log/objectives.log`
 
-```bash
+```
 ┌──(yair㉿dev)-[~/goals]
 └─$ tail -f objectives.log
 
-[2026-01-01] [INFO]  Profundizando en Laravel & arquitectura web .............. IN PROGRESS
-[2026-01-15] [INFO]  Explorando automatizaciones con N8N ........................ IN PROGRESS
-[2026-02-01] [INFO]  Practicando código limpio y patrones de diseño ............ IN PROGRESS
-[2026-03-01] [GOAL]  Primera experiencia profesional en un equipo real ......... SEARCHING 🔍
-                                                                    ^C
+[2026-01-01] [INFO]  Profundizando en Laravel & arquitectura web ......... IN PROGRESS ⚙
+[2026-01-15] [INFO]  Explorando automatizaciones con N8N .................. IN PROGRESS ⚙
+[2026-02-01] [INFO]  Practicando código limpio y patrones de diseño ....... IN PROGRESS ⚙
+[2026-03-01] [GOAL]  Primera experiencia profesional en un equipo ......... SEARCHING  🔍
 ```
 
 ---
@@ -125,15 +117,11 @@
 └─$ fetch --stats yairV1
 ```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yairV1&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=yairV1&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=666666" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yairV1&show_icons=true&theme=github_dark_dimmed&hide_border=true&icon_color=00FF41&title_color=00FF41&bg_color=0D1117&include_all_commits=true&count_private=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairV1&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=00FF41&bg_color=0D1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yairV1&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -143,21 +131,20 @@
 
 <div align="center">
 
-```bash
+```
 ┌──(yair㉿dev)-[~]
 └─$ ping -c 3 yair
 
-PING yair (0.0.0.0): buscando conexión...
-64 bytes from yair: ¿Trabajamos en algo juntos?
-64 bytes from yair: ¿Tienes un proyecto interesante?
-64 bytes from yair: ¿Buscas a alguien con ganas de aprender y aportar?
+PING yair: ¿Trabajamos en algo juntos?
+PING yair: ¿Tienes un proyecto interesante?
+PING yair: ¿Buscas a alguien con ganas de aprender y aportar?
 
---- yair ping statistics ---
-openToWork = true | response_time = rápido
+--- estadísticas ---
+open_to_work = true  |  response_time = rápido  |  ubicacion = Bogotá 🇨🇴
 ```
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-vergara-163043309/)
-[![Email](https://img.shields.io/badge/Enviar_Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yandrey2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-vergara-163043309/)
+[![Email](https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yandrey2007@gmail.com)
 
 </div>
 
@@ -165,12 +152,12 @@ openToWork = true | response_time = rápido
 
 <div align="center">
 
-```bash
+```
 [SESSION] Bogotá, Colombia 🇨🇴 · 2026
 [STATUS]  En construcción constante — cada commit cuenta.
 [QUOTE]   "El mejor código que escribirás mañana supera al mejor que escribiste hoy."
 ```
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=0D1117)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" />
 
 </div>
